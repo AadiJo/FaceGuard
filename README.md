@@ -10,3 +10,6 @@ Upcoming Goal: Add UI wrapper
 1. Place the reference images in the same directory as `main.py`, with the format `<username>_ref.jpg`.
 2. Run `main.py`
 3. Login with the appropriate username
+
+## Next Steps
+1. Model tuning and training
