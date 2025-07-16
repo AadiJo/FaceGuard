@@ -12,4 +12,4 @@ Upcoming Goal: Add UI wrapper
 3. Login with the appropriate username
 
 ## Next Steps
-1. Model tuning and training
+1. Model tuning and training (CNN Model)
